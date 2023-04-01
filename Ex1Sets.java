@@ -2,9 +2,9 @@ package JavaAdvanced_1;
 
 import java.util.*;
 
-public class Exercises {
+public class Ex1Sets {
 
-    public static void TeamProjectProve.main(String[] args) {
+    public static void main(String[] args) {
         exercise1();
         exercise2();
         exercise3();
@@ -70,7 +70,7 @@ public class Exercises {
         //2a. What will this output? [Questa stampa non seguirà un ordine preciso]
         System.out.println(fruitsSet);
 
-        List<String> fruitsList = new List.of("apple", "banana", "grapes", "pear", "mango");
+        List<String> fruitsList = List.of("apple", "banana", "grapes", "pear", "mango");
 
         fruitsSet.addAll(fruitsList);
 

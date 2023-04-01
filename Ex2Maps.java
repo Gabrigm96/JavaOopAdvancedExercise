@@ -1,9 +1,9 @@
-package JavaAdvanced._2;
+package JavaAdvanced_1;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Exercises {
+public class Ex2Maps {
     public static void main(String[] args) {
         exercise1();
         exercise2();
